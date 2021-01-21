@@ -5,7 +5,7 @@ import orm_logger
 logger = orm_logger.get_logger(__name__)
 DB_NAME = 'database_test_orm'
 DB_USER = 'postgres'
-DB_PASSWORD = 'd164500'
+DB_PASSWORD = 'PASSWORD'
 DB_HOST = '127.0.0.1'
 DB_PORT = '5432'
 
